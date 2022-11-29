@@ -1,6 +1,6 @@
 # Repositories List
 제가 깃 래파지토리에 학습하고 정리한 내용을 보기 쉽게 정리한 리스트 입니다.  
-코드나 기술적인 문서에 대한 내용은 Blog에 보다 많이 정리되어 있습니다.  
+코드나 기술적인 문서에 대한 내용은 Blog에 보다 많이 정리되어 있습니다. 
 감사합니다.
 
 
@@ -20,3 +20,4 @@
 - <a href="https://github.com/heodokyung/markdown-guide" target="_blank">허도경 마크업/CSS 컨벤션</a>
 - <a href="https://github.com/heodokyung/clean-code" target="_blank">Claen Code란 무엇인가에 대하여 작성한 내용입니다.</a>
 - <a href="https://github.com/heodokyung/typescript-guide" target="_blank">타입스크립트를 학습하며 정리한 내용입니다.</a>
+- <a href="https://whales.tistory.com/"  target="_blank">블로그 바로가기</a>
