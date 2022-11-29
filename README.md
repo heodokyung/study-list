@@ -1,5 +1,5 @@
 # Repositories List
-깃 래파지토리에 공부하고 정리한 내용을 확인 하기 쉽게 정리한 리스트 입니다.
+제가 깃 래파지토리에 학습하고 정리한 내용을 보기 쉽게 정리한 리스트 입니다.
 
 ## Javascript/Typescript
 - <a href="https://github.com/heodokyung/DrawPaintJS" target="_blank">canvas로 그림판 만들기</a>
