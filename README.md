@@ -1,6 +1,7 @@
 # Repositories List
 제가 깃 래파지토리에 학습하고 정리한 내용을 보기 쉽게 정리한 리스트 입니다.  
-코드나 기술적인 문서에 대한 내용은 Blog(<a href="https://whales.tistory.com/"  target="_blank">Blog 바로가기</a>)에 보다 많이 정리되어 있습니다. 
+코드나 기술적인 문서에 대한 내용은 Blog(<a href="https://whales.tistory.com/"  target="_blank">Blog 바로가기</a>)에 보다 많이 정리되어 있습니다.
+추가로 공부하면서 아래 목록은 계속 업데이트 하도록 하겠습니다.
 
 감사합니다.
 
