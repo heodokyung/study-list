@@ -18,7 +18,7 @@
 
 
 ## Documnet
-코드나 기술적인 문서에 대한 내용은 Blog(<a href="https://whales.tistory.com/"  target="_blank">Blog 바로가기</a>)에 보다 많이 정리되어 있습니다.
+코드나 기술적인 문서에 대한 내용은 Blog(<a href="https://whales.tistory.com/"  target="_blank">Blog 바로가기</a>)에 보다 많이 정리되어 있습니다.  
 깃 레파지토리에는 프로젝트에서 범용적으로 사용할 수 있는 문서위주로 작성합니다.
 
 - <a href="https://github.com/heodokyung/markdown-guide" target="_blank">허도경 마크업/CSS 컨벤션</a>
