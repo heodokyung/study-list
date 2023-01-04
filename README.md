@@ -16,6 +16,8 @@
 - <a href="https://github.com/heodokyung/react-coin-list" target="_blank">암호화폐 리스트 정보제공 사이트</a>
 - <a href="https://github.com/heodokyung/react-animation" target="_blank">framer-motion을 사용한 에니매이션 가이드</a>
 
+## Svelte
+- <a href="https://github.com/heodokyung/svelte-todo" target="_blank">Todo App (할일 목록 앱)</a>
 
 ## Documnet
 코드나 기술적인 문서에 대한 내용은 Blog(<a href="https://whales.tistory.com/"  target="_blank">Blog 바로가기</a>)에 보다 많이 정리되어 있습니다.  
